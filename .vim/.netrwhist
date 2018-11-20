@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/johann/.config/polybar'
+let g:netrw_dirhist_2='/home/johann/.config/i3'
+let g:netrw_dirhist_3='/home/johann/.config'
+let g:netrw_dirhist_4='/home/johann/Scripts'
+let g:netrw_dirhist_5='/home/johann/Github'
+let g:netrw_dirhist_6='/home/johann/Github/riskjs'
+let g:netrw_dirhist_7='/home/johann/Projekte/durak'
